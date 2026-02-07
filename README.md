@@ -1,2 +1,1 @@
-# python
-my python work 
+code written in laptop
